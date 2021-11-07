@@ -11,7 +11,7 @@ import java.util.concurrent.locks.Lock;
 
 /**
  *
- * @author angela
+ * @author ceciMD
  */
 public class Player implements Runnable {
 
